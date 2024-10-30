@@ -1,0 +1,179 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: imedo Arztsuche v2.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2011-04-19 09:21+0000\n"
+"Last-Translator: markus <markusdrubba@googlemail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: drumba-arztsuche.php:0
+#@ imedo-arztsuche
+msgid "imedo Arztsuche"
+msgstr "imedo Arztsuche"
+
+#. translators: plugin header field 'PluginURI'
+#: drumba-arztsuche.php:0
+#@ imedo-arztsuche
+msgid "http://developer.imedo.de/arztsuche-wordpress-plugin"
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: drumba-arztsuche.php:0
+#@ imedo-arztsuche
+msgid "Markus Drubba"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: drumba-arztsuche.php:0
+#@ imedo-arztsuche
+msgid "http://www.markusdrubba.de"
+msgstr ""
+
+#: drumba-arztsuche.php:88
+#@ imedo-arztsuche
+msgid "API-Key"
+msgstr ""
+
+#: drumba-arztsuche.php:96
+#@ imedo-arztsuche
+msgid "klein"
+msgstr ""
+
+#: drumba-arztsuche.php:96
+#@ imedo-arztsuche
+msgid "mittel"
+msgstr ""
+
+#: drumba-arztsuche.php:96
+#@ imedo-arztsuche
+msgid "gro&szlig;"
+msgstr ""
+
+#: drumba-arztsuche.php:165
+#, php-format
+#@ imedo-arztsuche
+msgid "Geben Sie bitte erst einen API-Key in den <a href=\"%1$s\">Einstellungen</a> zur Arztsuche ein."
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: drumba-arztsuche.php:0
+#@ imedo-arztsuche
+msgid "Das Wordpress Plugin dient dazu, die imedo Arztsuche bequem über WordPress in die eigene Webseite zu integrieren."
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: drumba-arztsuche.php:0
+#@ imedo-arztsuche
+msgid "1.0.0"
+msgstr ""
+
+#: drumba-arztsuche.php:54
+#@ imedo-arztsuche
+msgid "You cannot edit the imedo Arztsuche options."
+msgstr ""
+
+#: drumba-arztsuche.php:78
+#@ imedo-arztsuche
+msgid "imedo Arztsuche Konfiguration"
+msgstr ""
+
+#: drumba-arztsuche.php:90
+#@ imedo-arztsuche
+msgid "Den API-Key erhalten Sie auf <a href=\"http://developer.imedo.de\">http://developer.imedo.de</a>"
+msgstr ""
+
+#: drumba-arztsuche.php:95
+#@ imedo-arztsuche
+msgid "Gr&ouml;ße"
+msgstr ""
+
+#: drumba-arztsuche.php:97
+#@ imedo-arztsuche
+msgid "Die Größe wurde beim generieren des API-Key festgelegt, Änderungen sind an dieser Stelle nicht möglich"
+msgstr ""
+
+#: drumba-arztsuche.php:102
+#@ imedo-arztsuche
+msgid "Plugin Daten l&ouml;schen"
+msgstr ""
+
+#: drumba-arztsuche.php:104
+#@ imedo-arztsuche
+msgid "Plugin Daten beim deaktivieren des Plugins l&ouml;schen"
+msgstr ""
+
+#: drumba-arztsuche.php:109
+#@ imedo-arztsuche
+msgid "Einstellungen f&uuml;r imedo Arztsuche"
+msgstr ""
+
+#: drumba-arztsuche.php:109
+#@ imedo-arztsuche
+msgid "Speichere Arztsuche Einstellungen"
+msgstr ""
+
+#: drumba-arztsuche.php:118
+#@ imedo-arztsuche
+msgid "Wenn Sie die Arztsuche in Ihrem Blog integrieren wollen, schicken Sie uns bitte eine Anfrage über den unten stehenden Link und erweitern Sie die Mail mit der genauen Seite auf der die Arztsuche integriert werden soll. Bspw."
+msgstr ""
+
+#: drumba-arztsuche.php:118
+#@ imedo-arztsuche
+msgid "und die gewünschte Gr&ouml;ße der Integration."
+msgstr ""
+
+#: drumba-arztsuche.php:120
+#, php-format
+#@ imedo-arztsuche
+msgid "&raquo; <a href=\"mailto:%1$s?subject=WordPress API-Key Request from %2$s&amp;body=Hallo, bitte senden Sie mir einen API-Key für eine imedo Arztsuche Integration in meinem WordPress %3$s Blog auf %2$s.\">Anfrage senden</a>"
+msgstr ""
+
+#: drumba_plugin_admin.php:71
+#@ imedo-arztsuche
+msgid "Settings"
+msgstr ""
+
+#: drumba_plugin_admin.php:158
+#@ imedo-arztsuche
+msgid "Dann mach doch eines oder alle der folgenden Dinge:"
+msgstr ""
+
+#: drumba_plugin_admin.php:160
+#@ imedo-arztsuche
+msgid "Verlinke es, dass auch andere freude daran haben können."
+msgstr ""
+
+#: drumba_plugin_admin.php:161
+#@ imedo-arztsuche
+msgid "Vergib eine gute Bewertung auf WordPress.org."
+msgstr ""
+
+#: drumba_plugin_admin.php:162
+#@ imedo-arztsuche
+msgid "Spende einen beliebigen Betrag als Zeichen der Anerkennung meiner Arbeit."
+msgstr ""
+
+#: drumba_plugin_admin.php:172
+#@ imedo-arztsuche
+msgid "Wenn du Probleme oder gute Ideen für neue Features hast, dann sprich doch darüber im"
+msgstr ""
+
+#: drumba_plugin_admin.php:172
+#@ imedo-arztsuche
+msgid "Support forum"
+msgstr ""
+
